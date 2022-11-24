@@ -1,0 +1,33 @@
+h1{
+    color:white
+}
+
+.header{
+    background-color: cadetblue;
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid {
+       display: flex;
+       flex-wrap: wrap;
+       justify-content: space-evenly;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+
+p,h2{
+    text-align: center;
+}
+
+.name{
+    text-align: center;
+}
+
+.item{
+    background-color: rgba(11, 223, 152, 0.452);
+    color: rgb(10, 0, 0);
+}
